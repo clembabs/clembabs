@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/clement-babaniyi-59165518b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clement-babaniyi-59165518b/" height="30" width="40" /></a>
 
 
-<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clembabs&langs_count=8&theme=react&layout=compact)</div> | <div align="center">![Github Stars](https://github-readme-stats.vercel.app/api?username=clembabs&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) </div>|
+| <div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clembabs&langs_count=8&theme=react&layout=compact)</div> | <div align="center">![Github Stars](https://github-readme-stats.vercel.app/api?username=clembabs&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) </div> |
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=clembabs&theme=algolia&column=9&margin-w=5" />
