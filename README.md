@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I currently work with **Flutter,Golang** etc
+- 🔭 I currently work with **Flutter, Golang, NodeJs, ReactJs, Swift** 
 
 - 📫 How to reach me **clembabs@gmail.com**
 
